@@ -7,7 +7,7 @@ permalink: /about/
 
 # Thien Huynh-The
 
-**Senior Member, IEEE**
+Senior Member, IEEE
 Assistant Professor
 Department of Computer and Communication Engineering
 Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam
