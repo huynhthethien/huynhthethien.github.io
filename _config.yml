@@ -1,0 +1,11 @@
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Awards"
+    url: /awards/
+  - title: "Contact"
+    url: /contact/
