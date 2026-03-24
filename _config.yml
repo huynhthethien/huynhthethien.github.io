@@ -1,3 +1,4 @@
+theme: minima
 nav:
   - title: "About"
     url: /about/
