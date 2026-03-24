@@ -18,15 +18,7 @@ Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam
 
 ## Biography
 
-Thien Huynh-The (Senior Member, IEEE) received the B.S. degree in Electronics and Telecommunication Engineering and the M.Sc. degree in Electronics Engineering from Ho Chi Minh City University of Technology and Education, Vietnam, in 2011 and 2013, respectively, and the Ph.D. degree in Computer Science and Engineering from Kyung Hee University (KHU), South Korea, in 2018.
-
-He was a recipient of the Superior Thesis Prize awarded by KHU. From March 2018 to August 2018, he was a Postdoctoral Researcher with Ubiquitous Computing Laboratory, KHU. From September 2018 to May 2022, he was a Postdoctoral Researcher with the ICT Convergence Research Center, Kumoh National Institute of Technology, South Korea.
-
-He is currently an Assistant Professor in the Department of Computer and Communication Engineering, Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam.
-
-He was a recipient of the **Golden Globe Award 2020 for Vietnamese Young Scientist**.
-
-His current research interests include digital image processing, radio signal processing, computer vision, wireless communications, IoT applications, machine learning, and deep learning.
+Thien Huynh-The (Senior Member, IEEE) received the B.S. degree in Electronics and Telecommunication Engineering and the M.Sc. degree in Electronics Engineering from Ho Chi Minh City University of Technology and Education, Vietnam, in 2011 and 2013, respectively, and the Ph.D. degree in Computer Science and Engineering from Kyung Hee University (KHU), South Korea, in 2018. He was a recipient of the Superior Thesis Prize awarded by KHU. From March 2018 to August 2018, he was a Postdoctoral Researcher with Ubiquitous Computing Laboratory, KHU. From September 2018 to May 2022, he was a Postdoctoral Researcher with the ICT Convergence Research Center, Kumoh National Institute of Technology, South Korea. He is currently an Assistant Professor in the Department of Computer and Communication Engineering, Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam. He was a recipient of the Golden Globe Award 2020 for Vietnamese Young Scientist. His current research interests include digital image processing, radio signal processing, computer vision, wireless communications, IoT applications, machine learning, and deep learning.
 
 ---
 
